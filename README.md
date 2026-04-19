@@ -19,9 +19,9 @@ Nexus Store, modern ve şık bir arayüze sahip, kullanıcı dostu bir "Mini Kat
 
 ## 📸 Ekran Görüntüleri
 
-|                          Giriş Ekranı                           |                            Ürün Listesi                            |                            Ürün Detayı                             |
-| :-------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------: |
-| ![Login](https://via.placeholder.com/200x400?text=Login+Screen) | ![Products](https://via.placeholder.com/200x400?text=Product+List) | ![Detail](https://via.placeholder.com/200x400?text=Product+Detail) |
+|         Giriş Ekranı          |         Ürün Listesi          |          Ürün Detayı          |
+| :---------------------------: | :---------------------------: | :---------------------------: |
+| <img src="1.png" width="200"> | <img src="2.png" width="200"> | <img src="3.png" width="200"> |
 
 _(Not: Ekran görüntülerini eklemek için assets/screenshots klasörüne yükleyip yolları güncelleyebilirsiniz.)_
 
